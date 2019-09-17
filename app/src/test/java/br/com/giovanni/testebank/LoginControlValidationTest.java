@@ -52,9 +52,4 @@ public class LoginControlValidationTest {
         assertTrue(true);
     }
 
-    @Test
-    public void shouldAlwaysTrue2(){
-        assertTrue(true);
-    }
-
 }
